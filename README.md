@@ -11,9 +11,9 @@
 
 ## Открыть бота
 
-👉 **[Linklio • Скачать видео в Telegram](https://t.me/LinklioDownloadBot)**
+Найдите в Telegram: **Linklio • Скачать видео**
 
-*(замените ссылку на актуальную, если username другой)*
+Или перейдите по ссылке: **https://t.me/LinklioDownloadBot** *(уточните @username у владельца)*
 
 ---
 
