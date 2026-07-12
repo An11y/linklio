@@ -1,4 +1,4 @@
-# [Linklio](https://t.me/LinklioBot) • Скачать видео
+# Linklio • Скачать видео
 
 **[Linklio](https://t.me/LinklioBot)** — бесплатный Telegram-бот для скачивания видео, аудио и фото из соцсетей.
 
