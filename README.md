@@ -11,9 +11,7 @@
 
 ## Открыть бота
 
-Найдите в Telegram: **Linklio • Скачать видео**
-
-Или перейдите по ссылке: **https://t.me/LinklioDownloadBot** *(уточните @username у владельца)*
+👉 **[Linklio • Скачать видео](https://t.me/LinklioBot)** — [@LinklioBot](https://t.me/LinklioBot)
 
 ---
 
@@ -44,7 +42,7 @@ Linklio — **бесплатный бот** для скачивания меди
 
 ## Как пользоваться
 
-1. Откройте бота **Linklio • Скачать видео** в Telegram  
+1. Откройте [@LinklioBot](https://t.me/LinklioBot) в Telegram  
 2. Нажмите **⬇ Скачать** или отправьте ссылку сразу  
 3. Выберите формат:
    - 🎥 **Видео** — MP4, удобно для Telegram  
@@ -73,7 +71,7 @@ Linklio — **бесплатный бот** для скачивания меди
 
 ### Как скачать видео с YouTube?
 
-Откройте Linklio → отправьте ссылку на YouTube → выберите 🎥 Видео или 🎵 MP3.
+Откройте [@LinklioBot](https://t.me/LinklioBot) → отправьте ссылку на YouTube → выберите 🎥 Видео или 🎵 MP3.
 
 ### Как скачать TikTok Photo (несколько фото)?
 
